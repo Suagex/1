@@ -8,7 +8,7 @@ function SetBarrage(text) {
     barrage.innerText = text;
     document.getElementById('content-barrage').appendChild(barrage);
     const randomTime = Random(10, 15);
-    const randomTop = Random(0, 100);
+    const randomTop = Random(0, 90);
     barrage.style.top = randomTop + "%";
     barrage.style.animation = "barrage " + randomTime + "s linear";
     setTimeout(() => {
