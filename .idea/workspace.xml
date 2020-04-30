@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d30da07-e16e-44fa-840c-6c80fdddc95e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="4d30da07-e16e-44fa-840c-6c80fdddc95e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,5 +31,11 @@
       <updated>1587985296752</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2060" y="968" key="com.intellij.ide.util.TipDialog" timestamp="1588133551823">
+      <screen x="0" y="0" width="3840" height="2068" />
+    </state>
+    <state x="2060" y="968" key="com.intellij.ide.util.TipDialog/0.0.3840.2068/-2560.894.2560.1050@0.0.3840.2068" timestamp="1588133551823" />
   </component>
 </project>
