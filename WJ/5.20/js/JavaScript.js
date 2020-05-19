@@ -39,5 +39,5 @@ window.onload = function () {
         index = this.Random(0, length);
         this.SetBarrage(danmuPool[index]);
         console.log(danmuPool[index]);
-    }, 2000);
+    }, 20);
 }
