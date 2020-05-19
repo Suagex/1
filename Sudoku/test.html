@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="ch">
+
+<head>
+    <meta charset="utf-8" />
+    <title>t</title>
+    <meta name="Keywords" content="" />
+    <meta name="Description" content="" />
+    <link rel="stylesheet" href="css/.css" />
+    <script src="./js/jquery-3.5.1.js"></script>
+</head>
+
+<body>
+    <div id="a" class="hover" style="background:#f00;width:150px;height:150px;">a1
+        <div id="b" class="hover_in" style="background:#f60;width:100px;height:100px;">b</div>
+    </div>
+    <br>
+    <div id="aa" class="hover" style="background:#f00;width:150px;height:150px;">a2
+        <div id="ba" class="hover_in" style="background:#f60;width:100px;height:100px;">b</div>
+    </div>
+    <br>
+    <div id="ad" class="hover" style="background:#f00;width:150px;height:150px;">a3
+        <div id="bf" class="hover_in" style="background:#ff6600;width:100px;height:100px;">b</div>
+    </div>
+    <br>
+    <div id="adf" class="hover" style="background:#f00;width:150px;height:150px;">a4
+        <div id="dfb" class="hover_in" style="background:#f60;width:100px;height:100px;">b</div>
+    </div>
+    <script>
+        $(function () {
+            $('.hover').hover(function () {
+                $(this).find('.hover_in').css('width', '140px');
+            }, function () {
+                $(this).find('.hover_in').css('width', '100px');
+            })
+        })
+    </script>
+</body>
+
+</html>

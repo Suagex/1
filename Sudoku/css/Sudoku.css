@@ -1,0 +1,83 @@
+body {
+    background-color: blanchedalmond;
+}
+
+.header {
+    /*background-color: lightgoldenrodyellow;*/
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.contant {
+    /*background-color: lightblue;*/
+}
+
+table {
+    margin: auto;
+    text-align: center;
+}
+
+td {
+    height: 30px;
+    width: 50px;
+    border: 2px;
+    border-style: solid;
+    padding-top: 20px;
+}
+
+td:hover {
+    background-color: aquamarine;
+}
+
+.row0 td {
+    border-top: 4px;
+    border-style: solid;
+}
+
+.row3 td {
+    border-top: 4px;
+    border-style: solid;
+}
+
+.row6 td {
+    border-top: 4px;
+    border-style: solid;
+}
+
+.row8 td {
+    border-bottom: 4px;
+    border-style: solid;
+}
+
+.col0 {
+    border-left: 4px;
+    border-style: solid;
+}
+
+.col3 {
+    border-left: 4px;
+    border-style: solid;
+}
+
+.col6 {
+    border-left: 4px;
+    border-style: solid;
+}
+
+.col8 {
+    border-right: 4px;
+    border-style: solid;
+}
+
+.control {
+    margin: auto;
+    width: auto;
+    text-align: center;
+}
+
+button {
+    margin: 20px;
+    font-size: 20px;
+}
