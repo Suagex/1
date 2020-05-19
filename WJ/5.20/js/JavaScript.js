@@ -31,6 +31,7 @@ window.onload = function () {
         '做我女朋友吧',
         '爱你么么',
         '遇见你是我的幸运',
+        '世界因你的美丽而闪耀',
     ];
     let length = danmuPool.length;
     console.log(length);
