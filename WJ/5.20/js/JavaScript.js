@@ -17,8 +17,8 @@ function SetBarrage(text) {
 }
 window.onload = function () {
     let danmuPool = [
-        '哈哈哈哈',
-        '你好漂亮',
+        '你就是我心中的一把火',
+        '祝小仙女520快乐,永远爱你么么',
         '520快乐',
         '520快乐',
         '520快乐',
@@ -30,6 +30,7 @@ window.onload = function () {
         '做我女朋友吧',
         '做我女朋友吧',
         '爱你么么',
+        '遇见你是我的幸运',
     ];
     let length = danmuPool.length;
     console.log(length);
