@@ -1,5 +1,7 @@
 body {
-    background-color: blanchedalmond;
+    background: url("../Pc_top1b.jpg");
+    background-size: 100vw;
+    background-attachment: fixed;
 }
 
 .header {
@@ -17,6 +19,9 @@ body {
 table {
     margin: auto;
     text-align: center;
+    font-weight: bolder;
+    font-size: larger;
+    background: rgba(255, 255, 255, 0.493);
 }
 
 td {
