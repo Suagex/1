@@ -29,6 +29,10 @@ body {
     font-weight: bolder;
 }
 
+test {
+    color: #00FF00;
+}
+
 /*  为了防止突兀的出现 现在是从又到左面的负一屏 但是影响性能 可以根据自己的业务场景修改 */
 
 @keyframes barrage {
